@@ -1,0 +1,200 @@
+ 
+ body{
+    margin: 0;
+    text-align: center;
+    font-family: "Montserrat", sans-serif; 
+ }
+ h1{
+   
+   font-family: "Sacramento", cursive;       
+   font-size: 5.625rem;
+   margin-top: 0;
+   padding-top: 50px;
+   margin-bottom: 0;
+   color: #66BFBF;
+ 
+    
+ }
+ p{
+  font-family: "Lilita One", sans-serif;
+  font-size: 20px;
+  padding-left: 10px  ;
+ }
+ .pi{
+  /* font-family: "Lilita One", sans-serif; */
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 20px;
+  font-style: normal;
+  font-size: 20px;
+  margin-left: 400px  ; 
+  line-height: 2;
+  color: #40514E;
+  letter-spacing: 0.8px;
+ }
+ 
+ hr{
+  border: dotted  #b4c4c4 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+ }
+ h2{
+  margin-bottom: 100px;
+  font-family: "Sacramento", cursive;  
+  font-size: 50px;
+  color: #66BFBF;
+  font-weight: 50px;
+ }
+  
+ h3{
+   font-family: "Merriweather", serif;
+   color: #11999E;
+ }
+.top{
+    background-color: #E4F9F5; 
+    position: relative;   
+ }
+ .top-cloud{
+    position: absolute    ;
+     width: 15%;
+     margin-left: 300px;
+     margin-top: 50px; 
+     filter: drop-shadow(30px 30px 30px white);
+     transition: .3s;
+     overflow: hidden;
+ }
+ .top-cloud:hover{
+  scale:1.1;
+ }
+ .bottom-cloud{
+   position: absolute;
+   width: 15%;
+  margin: auto 0 auto 15;
+  filter: drop-shadow(30px 30px 30px white);
+  transition: .3s;
+  overflow: hidden;
+ }
+ .bottom-cloud:hover{
+  scale:1.1;
+ }
+.mountain{
+  filter: drop-shadow(30px 30px 30px white);
+  transition: .3s;
+  overflow: hidden;
+}
+.mountain:hover{
+  scale:1.1;
+}
+ .middle{
+  background-color: #E4F9F5;
+   
+ }
+ 
+ .bottom{
+  background-color: rgba(179, 231, 226, 0.986);
+  
+ }
+ .b{
+  margin-bottom: 0;
+  padding-bottom: 20px;
+ }
+ .Skill{
+       h2{
+        padding-top: 20px;
+       }                                                        
+  .Skill-row{
+    border-radius: 20%;
+  }
+ 
+ }
+.Profile{
+
+   
+  width: 50%;
+  margin: 0 auto 50px auto ; 
+  padding-top: 70px; 
+ line-height: 2;
+ h2{
+  margin: 0;
+  padding-top: 0px;
+ }
+ margin-bottom: 150px;
+  }
+  .pro{
+    border-radius: 50%;
+    width: 40%;
+    float: left;
+    margin: 0;
+    filter: drop-shadow(30px 30px 30px white);
+    transition: .3s;
+    overflow: hidden;
+  }
+  .pro:hover{
+    scale:1.1;
+  }
+  .cpp{
+    width: 200px;
+    filter: drop-shadow(30px 30px 30px white);
+    transition: .3s;
+    overflow: hidden;
+  }
+ .cpp:hover{
+  scale:1.1;
+ }
+.lo{
+  width: 100px;
+  margin-left: 600px;
+  float: left;
+  filter: drop-shadow(30px 30px 30px white);
+  transition: .3s;
+  overflow: hidden;
+}
+.lo:hover{
+  scale:1.1;
+}
+.ms{
+  font-family: "Sacramento", cursive; 
+  font-weight: 70px;
+  font-size: 50px;
+  padding-bottom: 10px;
+  margin-right: 550px;
+  padding-top: 50px;
+  color: #66BFBF;
+  margin-bottom: 50px;
+   
+}
+ 
+.Skill-row{
+  width: 60%;
+  margin-left:300px;
+
+}
+.li{
+  width: 80px;
+   padding-top: 20px;
+   filter: drop-shadow(30px 30px 30px white);
+   overflow: hidden;
+   transition: .3s;
+}
+.li:hover {
+  scale:1.1;
+}
+.SQL{
+  height: 200PX;
+  overflow: hidden;
+  transition: .3s;
+}
+.SQL:hover{
+  scale:1.1;
+}
+.contact-me{
+h2{
+  margin-bottom: 20px;
+}
+}
+.b{
+  color: grey;
+}
+ 
